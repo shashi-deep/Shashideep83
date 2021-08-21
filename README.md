@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Ansible.
 - 🤝 I’m looking to collaborate on MLOps/SecOps.
 - 🤔 I’m looking for help with JavaScript.
-- 💬 Ask me about Data.
+- 💬 Ask me about Cloud.
 - 📫 How to reach me: https://www.linkedin.com/in/shashideep/
 
 
