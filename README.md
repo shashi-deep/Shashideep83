@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning K8s.
-- 🤝 I’m looking to collaborate on MLOps/SecOps.
+- 🌱 I’m currently learning GO.
+- 🤝 I’m looking to collaborate on MLOps/DevSecOps.
 - 💬 Ask me about Cloud.
 
 
